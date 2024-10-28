@@ -13,13 +13,14 @@ This project focuses on building and deploying a machine learning model that cla
 - **scikit-learn**: Model development and evaluation
 
 ## Project Structure
+'''
 ├── app.py               # Flask app for model deployment </br>
 ├── model.py             # Model training script
 ├── requirements.txt     # Required Python packages
 ├── static/              # Static files (if any)
 ├── templates/           # HTML templates for web interface (if applicable)
 └── README.md            # Project overview and documentation
-
+'''
 
 ## Model Development
 The machine learning model is based on the RandomForest classifier, chosen for its accuracy and ease of interpretation in medical datasets. After training on the dataset, the model achieved notable accuracy in detecting breast cancer, ensuring reliability in real-world applications.
