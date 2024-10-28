@@ -16,8 +16,6 @@ This project focuses on building and deploying a machine learning model that cla
 ```
 ├── app.py                                     # Flask app for model deployment </br>
 ├── beingdatum_webinar_azure_Ml.py             # Model training script
-├── requirements.txt                           # Required Python packages
-├── static/                                    # Static files (if any)
 ├── templates/                                 # HTML templates for web interface (if applicable)
 └── README.md                                  # Project overview and documentation
 ```
