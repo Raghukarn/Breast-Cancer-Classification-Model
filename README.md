@@ -12,6 +12,13 @@ This project focuses on building and deploying a machine learning model that cla
 - **Pandas, NumPy**: Data manipulation and analysis
 - **scikit-learn**: Model development and evaluation
 
+## Project Structure
+├── app.py               # Flask app for model deployment
+├── model.py             # Model training script
+├── requirements.txt     # Required Python packages
+├── static/              # Static files (if any)
+├── templates/           # HTML templates for web interface (if applicable)
+└── README.md            # Project overview and documentation
 
 
 ## Model Development
