@@ -13,7 +13,7 @@ This project focuses on building and deploying a machine learning model that cla
 - **scikit-learn**: Model development and evaluation
 
 ## Project Structure
-├── app.py               # Flask app for model deployment
+├── app.py               # Flask app for model deployment </br>
 ├── model.py             # Model training script
 ├── requirements.txt     # Required Python packages
 ├── static/              # Static files (if any)
